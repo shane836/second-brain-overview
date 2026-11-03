@@ -41,8 +41,8 @@ MEP Vault/
 
 ## Generalized skills
 
-The vault’s generalized skills collection contains reusable workflows
-organized by workstream (the collection is not included in this repository):
+[Browse the generalized skills collection](Skills/README.md) for reusable workflows
+organized by workstream:
 
 - **Programming:** Hydrate, folder sorting, Handoff, Markdown validator,
   agent messaging, and dependency monitoring.
@@ -60,3 +60,7 @@ and what an agent needs to adapt it to another environment.
 
 Non-authoritative snapshot dated 2026-11-03. Source: `Active/Programming/Second Brain - External Overview.md` in the MEP vault. The source vault is not a Git repository; this snapshot has no source commit revision.
 
+
+## How this was built
+
+The generalized skill references were prepared with OpenAI Codex assistance. Review and validate adaptations for your environment.
