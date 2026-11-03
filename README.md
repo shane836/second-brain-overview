@@ -1,11 +1,4 @@
----
-type: reference
-title: Second Brain - External Overview
-description: How the Markdown vault provides reusable context and ongoing memory for agents.
-workstream: programming
-hub: "[[Programming_Automation]]"
-status: draft
----
+
 
 # Mason Equity Second Brain
 
@@ -31,9 +24,9 @@ MEP Vault/
 ├── Active/                     Current work, organized by workstream
 │   ├── Content/                Social media content and workflows
 │   ├── Financial Reporting/    Models and reporting documentation
-│   ├── Osage Asset Management/ Property operations
-│   ├── Osage Fundraise/        Syndication and investor materials
-│   ├── Storage Equity/         Company operations and accounting
+│   ├── Asset Management/       Property operations
+│   ├── Fundraise/              Syndication and investor materials
+│   ├── HoldCo/                 Holding Company operations and accounting
 │   ├── Programming/            Programming projects and agent tooling
 │   └── Personal/               Personal notes and projects
 ├── Reference/                  Reusable context
